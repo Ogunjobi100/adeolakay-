@@ -3,4 +3,4 @@
 
 Adeola kay readme file 
 
-I am making adeolakay a website 
+This is cool 
